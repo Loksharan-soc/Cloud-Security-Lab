@@ -75,7 +75,7 @@ Guide: [docs/incident-playbook.md](docs/incident-playbook.md)
 ## 🚀 Getting Started
 1. Clone this repo:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/cloud-security-lab.git
+   git clone https://github.com/loksharan-soc/cloud-security-lab.git
    cd cloud-security-lab/terraform
    ```
 2. Configure AWS credentials with an IAM user (lab-only).
